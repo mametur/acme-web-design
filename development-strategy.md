@@ -1,26 +1,29 @@
 # Development Strategy
 
-> `name-of-project`
+> `acme-web-design`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+A fictional web site for HYF students to improve their front end skills
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+`this web site consist of three web pages`
+
+![home](./wireframe/home.png) ![about](./wireframe/about.png) ![service](./wireframe/service.png)
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+__Coches can see the initial repository and live demo__
 
 ### Repo
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+1. Created a new repository
+2. generated as [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).  
+3. Give a title to your README  
+4. Clone the repository  
+5. add meta tags ,css file links and title in the head 
+6. add wireframes 
+7. Push the changes
+8. turn on GitHub Pages
 
 ## 1. __
 

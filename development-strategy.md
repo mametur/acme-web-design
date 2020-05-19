@@ -114,7 +114,7 @@ This user story was developed on a branch called `core-css`
 
 ### HTML
 
--Html has changed previous user stories 
+-add `span` inline element to change color of one of the words with CSS  
 
 ### CSS
 
@@ -128,6 +128,7 @@ This user story was developed on a branch called `core-css`
 - `The text-decoration` property specifies the decoration added to text,
 - Add `margin 0 and paddin 0` to `ul`because it has margin and padding by default
 - the `float` property float navbar to right
+- the `a:hover` selector to change style of elements or links when you mouse over it.Here I used for changing color of nabvar links
 
 ## Finishing Touches
 

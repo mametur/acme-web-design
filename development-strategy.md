@@ -63,7 +63,11 @@ This user story was developed on a branch called `showcase-news`
 - `form` block element which user can pass info on it
 - `input` inline block element which shows area to user full info 
 - `button` inline block element which submit user info to send server
-...
+
+### CSS
+
+After plain HTML, I will change css
+
 
 ## Finishing Touches
 

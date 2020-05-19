@@ -25,21 +25,29 @@ __Coches can see the initial repository and live demo__
 7. Push the changes
 8. turn on GitHub Pages
 
-## 1. __
+## 1._User Story_: Using header and nav tags
 
-__full user story description__
+__**As coaches, we want to see header and navbar used in semantic way**__
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed on a branch called `head-nav`
 
 ### HTML
 
-what did you change in the HTML and why?
+- I used `<header> and <nav>` which describe its meaning to both the browser and the developer
+- `div` is non-semantic block tag  which will help me with css to manipulating its content
+- I gave `id` in div tag which is unique later on I will just change on this part with css or js
+
+- I gave `class` in div tag for css later on which will changes all `class="container" ` align center and gives margin.
+
+- `ul and li` block tags make unorder list  
+
+- `a`inline tag for links the other pages such as `service.html` 
 
 ### CSS
 
-what did you change in the CSS and why?
+After plain HTML, I will change css
 
 ## 2. ...
 

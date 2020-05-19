@@ -87,6 +87,23 @@ This user story was developed on a branch called `section-box`
 
 After plain HTML, I will change css
 
+## 4. _User Story_: Usig footer element
+
+__**As coaches, we want to see footer used in semantic way**__
+
+### Repo
+
+This user story was developed on a branch called `footer`
+
+### HTML
+
+- I used `<footer>` which describe its meaning to both the browser and the developer
+- the rest changes as above user stories  
+
+### CSS
+
+After plain HTML, I will change css
+
 ## Finishing Touches
 
 - Write final, complete README:

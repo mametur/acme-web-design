@@ -104,6 +104,31 @@ This user story was developed on a branch called `footer`
 
 After plain HTML, I will change css
 
+## 5. _User Story_: Usig CSS properties and Selectors
+
+__**As coaches, we want to see css properties and selectors using in the css file**__
+
+### Repo
+
+This user story was developed on a branch called `core-css`
+
+### HTML
+
+-Html has changed previous user stories 
+
+### CSS
+
+- `font-family`property specifies the font for an element  
+- The `font-size` property sets the size of a font
+- The `line-height` property specifies the height of a line.
+- The`margin auto` property to auto to horizontally center the element within its container
+- The `overflow-hidden` is clipped, and the rest of the content will be invisible
+- The `color` property  specifies the color of text.
+- `The min-height` property defines the minimum height of an element. If the content is smaller than the minimum height, the minimum height will be applied.If the content is larger than the minimum height, the min-height property has no effect.
+- `The text-decoration` property specifies the decoration added to text,
+- Add `margin 0 and paddin 0` to `ul`because it has margin and padding by default
+- the `float` property float navbar to right
+
 ## Finishing Touches
 
 - Write final, complete README:

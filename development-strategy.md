@@ -49,10 +49,20 @@ This user story was developed on a branch called `head-nav`
 
 After plain HTML, I will change css
 
-## 2. ...
+## 2. _User Story_: Usig sections element
 
-...
+__**As coaches, we want to see section used in semantic way**__
 
+### Repo
+
+This user story was developed on a branch called `showcase-news`
+
+### HTML
+
+- I used `<section>` which describe its meaning to both the browser and the developer
+- `form` block element which user can pass info on it
+- `input` inline block element which shows area to user full info 
+- `button` inline block element which submit user info to send server
 ...
 
 ## Finishing Touches

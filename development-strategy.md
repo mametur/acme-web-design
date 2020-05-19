@@ -131,6 +131,23 @@ This user story was developed on a branch called `core-css`
 - the `a:hover` selector to change style of elements or links when you mouse over it.Here I used for changing color of nabvar links
 - `input[type="email"]` kind of selector to be more precise
 
+## 6. _User Story_: Usig CSS properties and Selectors
+
+__**As coaches, we want to see css properties and selectors styling footer and section*__
+
+### Repo
+
+This user story was developed on a branch called `style-box-footer`
+
+### HTML
+
+-add `id= "boxes"` in section elements to style boxes
+
+### CSS
+
+- `float`, use float to align all boxes to left
+- the rest changes as previous user stories above
+
 ## Finishing Touches
 
 - Write final, complete README:

@@ -129,6 +129,7 @@ This user story was developed on a branch called `core-css`
 - Add `margin 0 and paddin 0` to `ul`because it has margin and padding by default
 - the `float` property float navbar to right
 - the `a:hover` selector to change style of elements or links when you mouse over it.Here I used for changing color of nabvar links
+- `input[type="email"]` kind of selector to be more precise
 
 ## Finishing Touches
 

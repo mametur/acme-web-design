@@ -68,6 +68,24 @@ This user story was developed on a branch called `showcase-news`
 
 After plain HTML, I will change css
 
+## 3. _User Story_: Usig more sections element
+
+__**As coaches, we want to see section used in semantic way**__
+
+### Repo
+
+This user story was developed on a branch called `section-box`
+
+### HTML
+
+- I used `<section>` which describe its meaning to both the browser and the developer
+- used `div` block elements for align in container
+- add pictures with `img` block elements and `alt` is to describe picture for any case(when url is broken) also for people who are disabled for seeing
+- the rest changes as above user stories  
+
+### CSS
+
+After plain HTML, I will change css
 
 ## Finishing Touches
 

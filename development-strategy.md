@@ -141,7 +141,7 @@ This user story was developed on a branch called `style-box-footer`
 
 ### HTML
 
--add `id= "boxes"` in section elements to style boxes
+- add `id= "boxes"` in section elements to style boxes
 
 ### CSS
 
@@ -165,6 +165,25 @@ __**As coaches, we want to see in `about page` using semantic elements and styli
 ### CSS
 
 - `float`, use float to align the article and side bar
+- The rest changes applied as previous user stories above
+
+## 8. _User Story_: Service Page
+
+__**As coaches, we want to see in `service page` using semantic elements and styling**__
+
+### Repo
+
+ This user story was developed on a branch called `service-page`
+
+### HTML
+
+- Add the`articles` semantic elements in the`section` semantic element
+- Add the `ul` block element in the `article`semantic element to list different offers
+- Add the `form` block element for user can send info
+- The rest elements and content copy paste from `about.html` page
+
+### CSS
+
 - The rest changes applied as previous user stories above
 
 ## Finishing Touches

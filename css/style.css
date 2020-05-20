@@ -240,4 +240,36 @@ footer{
         text-align: center;
         width: 100%;
     }
+
+    /*about page*/
+    article#main-col {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    aside#sidebar{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    .quote button{
+        float: none;
+        text-align: center;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    aside#sidebar .quote input {
+        float: none;
+        text-align: center;
+        width: 100%;
+        box-sizing: border-box;
+        margin:0;
+    }
+    aside#sidebar .quote textarea{
+        float: none;
+        text-align: center;
+        width: 100%;
+        box-sizing: border-box;
+        margin:0;
+    }
 }

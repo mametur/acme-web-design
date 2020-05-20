@@ -161,6 +161,23 @@ aside#sidebar{
     width:30%;
 }
 
+aside#sidebar .quote input, aside#sidebar .quote textarea {
+
+    width: 90%;
+    margin: 5px;
+}
+
+
+/*services*/
+
+ul#services li{
+    list-style: none;
+    padding: 20px;
+    border:#cccccc solid 1px;
+    margin-bottom: 5px;
+    background: #e6e6e6;
+}
+
 
 /* footer*/
 

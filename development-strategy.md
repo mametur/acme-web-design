@@ -8,7 +8,7 @@ A fictional web site for HYF students to improve their front end skills
 
 `this web site consist of three web pages`
 
-![home](./wireframe/home.png) ![about](./wireframe/about.png) ![service](./wireframe/service.png)
+![home](./wireframe/wireframe.png)
 
 ## 0. Set-Up
 
@@ -204,3 +204,19 @@ __**As coaches, we want to see  all pages as responsive**__
 - Remove float to make all divs as block
 - `box-sizing: border-box` when you set width, this width includes (padding and border) but total width is `width+margin`
 - The rest changes as user stories above
+
+## 9. _User Story_: Validation
+
+__**As coaches, we want to see project's html and css files are validated**__
+
+### Repo
+
+ This user story was developed on a branch called `validation`
+
+### HTML
+
+- Add to `<html>` tags `lang="eng"`
+
+### CSS
+
+- CSS is validated

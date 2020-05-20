@@ -133,7 +133,7 @@ This user story was developed on a branch called `core-css`
 
 ## 6. _User Story_: Usig CSS properties and Selectors
 
-__**As coaches, we want to see css properties and selectors styling footer and section*__
+__**As coaches, we want to see css properties and selectors styling footer and section**__
 
 ### Repo
 
@@ -147,6 +147,25 @@ This user story was developed on a branch called `style-box-footer`
 
 - `float`, use float to align all boxes to left
 - the rest changes as previous user stories above
+
+## 7. _User Story_: About Page
+
+__**As coaches, we want to see in `about page` using semantic elements and styling**__
+
+### Repo
+
+ This user story was developed on a branch called `about-page`
+
+### HTML
+
+- Add the`articles` semantic elements in the`section` semantic element
+- Add the `aside` semantic element in the `section`semantic element
+- The rest elements and content copy paste from `index.html` page
+
+### CSS
+
+- `float`, use float to align the article and side bar
+- The rest changes applied as previous user stories above
 
 ## Finishing Touches
 

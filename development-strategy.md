@@ -186,10 +186,21 @@ __**As coaches, we want to see in `service page` using semantic elements and sty
 
 - The rest changes applied as previous user stories above
 
-## Finishing Touches
+## 9. _User Story_: Responsive
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+__**As coaches, we want to see  all pages as responsive**__
+
+### Repo
+
+ This user story was developed on a branch called `responsive`
+
+### HTML
+
+- Nothing changed
+
+### CSS
+
+- Add `Media Query` to make website responsive when screen of device equal and small than `max-width 768px`
+- Remove float to make all divs as block
+- `box-sizing: border-box` when you set width, this width includes (padding and border) but total width is `width+margin`
+- The rest changes as user stories above
